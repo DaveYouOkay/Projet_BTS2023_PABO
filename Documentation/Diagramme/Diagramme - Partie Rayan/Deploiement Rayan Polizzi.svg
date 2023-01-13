@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Bouml (http://bouml.free.fr/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="658" height="796" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<rect fill="#dcdcdc" stroke="black" stroke-width="1" stroke-opacity="1" x="498" y="677" width="138" height="106" />
+	<polygon fill="#dcdcdc" stroke="black" stroke-opacity="1" points="498,677 508,667 646,667 646,773 636,783 636,677 498,677" />
+	<line stroke="black" stroke-opacity="1" x1="636" y1="677" x2="646" y2="667" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="567" y="688">:PC</text>
+</g>
+<g>
+	<rect fill="#dcdcdc" stroke="black" stroke-width="1" stroke-opacity="1" x="204" y="672" width="142" height="112" />
+	<polygon fill="#dcdcdc" stroke="black" stroke-opacity="1" points="204,672 214,662 356,662 356,774 346,784 346,672 204,672" />
+	<line stroke="black" stroke-opacity="1" x1="346" y1="672" x2="356" y2="662" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="275" y="683">:Smartphone</text>
+</g>
+<g>
+	<rect fill="#dcdcdc" stroke="black" stroke-width="1" stroke-opacity="1" x="279" y="116" width="354" height="436" />
+	<polygon fill="#dcdcdc" stroke="black" stroke-opacity="1" points="279,116 289,106 643,106 643,542 633,552 633,116 279,116" />
+	<line stroke="black" stroke-opacity="1" x1="633" y1="116" x2="643" y2="106" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="456" y="127">:RPI</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="305" y1="661" x2="354" y2="552" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="555" y1="666" x2="522" y2="552" />
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="540" y="600">WIFI</text>
+</g>
+<g>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" x="303" y="601">WIFI</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="512" y="162" width="3" height="45" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="404" y="204" width="111" height="3" />
+	<rect fill="#c0ffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="400" y="158" width="112" height="46" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="456" y="176">&lt;&lt;artifact&gt;&gt;</text>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="456" y="199">Raspberry Pi OS</text>
+	<polygon fill="none" stroke="black" stroke-opacity="1" points="495,162 504,162 504,166 508,166 508,181 495,181 495,162" />
+	<line stroke="black" stroke-opacity="1" x1="504" y1="162" x2="508" y2="166" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="510" y="315" width="3" height="45" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="402" y="357" width="111" height="3" />
+	<rect fill="#c0ffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="398" y="311" width="112" height="46" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="454" y="329">&lt;&lt;artifact&gt;&gt;</text>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="454" y="352">SGBD embarqué</text>
+	<polygon fill="none" stroke="black" stroke-opacity="1" points="493,315 502,315 502,319 506,319 506,334 493,334 493,315" />
+	<line stroke="black" stroke-opacity="1" x1="502" y1="315" x2="506" y2="319" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="509" y="478" width="3" height="45" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="401" y="520" width="111" height="3" />
+	<rect fill="#c0ffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="397" y="474" width="112" height="46" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="453" y="492">&lt;&lt;artifact&gt;&gt;</text>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="453" y="515">Serveur DHCP</text>
+	<polygon fill="none" stroke="black" stroke-opacity="1" points="492,478 501,478 501,482 505,482 505,497 492,497 492,478" />
+	<line stroke="black" stroke-opacity="1" x1="501" y1="478" x2="505" y2="482" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="526" y="238" width="3" height="45" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="392" y="280" width="137" height="3" />
+	<rect fill="#c0ffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="388" y="234" width="138" height="46" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="457" y="252">&lt;&lt;artifact&gt;&gt;</text>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="457" y="275">Serveur Web embarqué</text>
+	<polygon fill="none" stroke="black" stroke-opacity="1" points="509,238 518,238 518,242 522,242 522,257 509,257 509,238" />
+	<line stroke="black" stroke-opacity="1" x1="518" y1="238" x2="522" y2="242" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="509" y="393" width="3" height="45" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="401" y="435" width="111" height="3" />
+	<rect fill="#c0ffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="397" y="389" width="112" height="46" />
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="453" y="407">&lt;&lt;artifact&gt;&gt;</text>
+	<text font-family="Helvetica" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="453" y="430">point d'accés WIFI</text>
+	<polygon fill="none" stroke="black" stroke-opacity="1" points="492,393 501,393 501,397 505,397 505,412 492,412 492,393" />
+	<line stroke="black" stroke-opacity="1" x1="501" y1="393" x2="505" y2="397" />
+</g>
+</svg>
