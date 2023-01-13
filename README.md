@@ -3,5 +3,5 @@ BTS Système Numérique opt. Informatique &amp; Réseau - Épreuve U62 – Proje
 
 
 Trello : https://trello.com/b/sOFSXo1T/pabos-bts-2023-groupe-jaune
-\n
+
 Twitter : https://twitter.com/ProjetPABO
