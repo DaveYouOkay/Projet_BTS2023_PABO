@@ -3,6 +3,7 @@ BTS Système Numérique opt. Informatique &amp; Réseau - Épreuve U62 – Proje
 
 
 Utilisation de la méthode Agile.
+Utilisation de SQLite et OpenCV en C++
 
 Trello : https://trello.com/b/sOFSXo1T/pabos-bts-2023-groupe-jaune
 
