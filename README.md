@@ -12,11 +12,11 @@ Utilisation de la méthode Agile.
 - Utilisation du module
 
 **Rayan**
--
+- Utilisation
 -
 
 **Zoubaïer**
--
+- Utilisation
 -
 
 
