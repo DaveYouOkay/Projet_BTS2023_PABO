@@ -8,12 +8,16 @@ Utilisation de la méthode Agile.
 - Utilisation d'OpenCV en Python pour de la reconnaissance de personne, bébé et animaux via une caméra Raspberry. 
 - Utilisation du module BME280 pour détecter les conditions atmosphériques à l'interieur du vehicule et réagir en cas d'anomalie ou de situations dangereuses.
 
-Valentin - Utilisation du module
+**Valentin**
+- Utilisation du module
 
-Rayan -
+**Rayan**
+-
+-
 
-Zoubaïer -
-
+**Zoubaïer**
+-
+-
 
 
 Trello : https://trello.com/b/sOFSXo1T/pabos-bts-2023-groupe-jaune
