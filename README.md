@@ -4,8 +4,9 @@ BTS Système Numérique opt. Informatique &amp; Réseau - Épreuve U62 – Proje
 
 Utilisation de la méthode Agile.
 
-David - Utilisation d'OpenCV en Python pour de la reconnaissance de personne, bébé et animaux via une caméra Raspberry. 
-      - Utilisation du module BME280 pour détecter les conditions atmosphériques à l'interieur du vehicule et réagir en cas d'anomalie ou de situations dangereuses.
+David 
+- Utilisation d'OpenCV en Python pour de la reconnaissance de personne, bébé et animaux via une caméra Raspberry. 
+- Utilisation du module BME280 pour détecter les conditions atmosphériques à l'interieur du vehicule et réagir en cas d'anomalie ou de situations dangereuses.
 
 Valentin - Utilisation du module
 
